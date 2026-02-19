@@ -1,2 +1,7 @@
-# m2dw-yani2026
-INTRODUCCION A HTML
+# REPOSITORIO DEL MODULO 2 DE DESARROLLO WEB
+
+ ## COMANDOS DE BASH
+ * ls = list
+ * cd = change directory
+ * pwd = print working directory
+ * rm = remove
